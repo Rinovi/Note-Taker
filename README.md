@@ -2,7 +2,7 @@
 
 ## Description
 The following is a note taking application that can be used to create, view, and delete notes. As part of the Module 11 challenge in the ASU Bootcamp, we were given completed front-end code, and then tasked with building the back end, such that the application would 
-become a fully functional full-stack project. This application primarily employed the use of Express.js to build the back-end, as well as fs, js, and uuid for additional dependencies. The website itself contains fields for 'Note Title', and 'Note Text', with buttons to 'Save Note' or 'Clear Form' after entering in text. It also has a section which shows created notes, that can either be viewed or deleted. The following image is an example of what one may see upon opening the Note Taker 
+become a fully functional full-stack project. This application primarily employs the use of Express.js to build the back-end, as well as fs, js, and uuid for additional dependencies. The website itself contains fields for 'Note Title', and 'Note Text', with buttons to 'Save Note' or 'Clear Form' after entering in text. It also has a section which shows created notes, that can either be viewed or deleted. The following image is an example of what one may see upon opening the Note Taker 
 ![Screenshot 2024-05-16 230824](https://github.com/Rinovi/Note-Taker/assets/160938078/19b0d142-f819-49d9-a28a-7f7cb548c1ff)
 
 ## Usage
